@@ -1,0 +1,8 @@
+name = "my-app"
+type = "webpack"
+
+account_id = "cbd66a2d002c07a099d96476da50e866"
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2022-04-23"
